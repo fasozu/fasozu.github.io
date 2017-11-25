@@ -13,10 +13,9 @@
 
 
 
-<title>Blog - fasozu</title>
-<meta name="description" content="Hablando mierda y algo más
-">
-<link rel="canonical" href="/">
+<title>Welcome to Jekyll! - fasozu</title>
+<meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
+<link rel="canonical" href="/jekyll/update/2015/11/17/ejemplo.html">
 
 
 <link rel="alternate" type="application/rss+xml" title="fasozu" href="/feed.xml">
@@ -131,31 +130,21 @@
   </nav>
 </header>
 
-  <div class="m-page-main"><div class="m-home">
-  <div class="main">
-    <div class="m-post-list">
-      
-        <article>
-          
-          
-          
-          <h1><a href="/jekyll/update/2015/11/17/ejemplo.html">Welcome to Jekyll!</a></h1>
-          <div class="m-article-content">
-            
-              You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run bundle exec jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the...
-            
-          </div>
-          
-          
-          
-          
+  <div class="m-page-main"><div class="m-post">
+	<div class="main js-main">
+		<div class="col-1">
+			<article itemscope itemtype="http://schema.org/BlogPosting">
+				<meta itemprop="mainEntityOfPage" itemscope itemType="https://schema.org/WebPage"/>
+				<header class="article-header">
+					
 
 
 
-          <a href="/jekyll/update/2015/11/17/ejemplo.html">Click to read more ...</a>
-          <div class="m-article-data clearfix">
+
+
+
+					<h1 itemprop="headline" itemprop="name headline">Welcome to Jekyll!</h1>
+					<div class="m-article-data clearfix">
 	
     <meta itemprop="author" itemscope itemtype="https://schema.org/Person">
       
@@ -175,18 +164,166 @@ To add new posts, simply add a file in the...
 
 
       
-        <span class="article-meta">Nov 17, 2015</span>
+        <time class="article-meta" datetime="2015-11-17T17:16:01-05:00"
+          itemprop="datePublished">Nov 17, 2015
+        </time>
       
     </div>
   </div>
 </div>
 
-        </article>
-      
-    </div>
+				</header>
+				<div class="m-article-content js-article-content" itemprop="articleBody"><p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">bundle exec jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+</div>
+				<footer>
+					
+						<meta itemprop="dateModified" content="2015-11-17T17:16:01-05:00">
+					
+					<div class="article-license">
+						<div class="m-license">
+  
+  <div class="clearfix">
     
+    
+    
+
+
+
+    <p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> license.</p>
+    
+    
+    <a class="license" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+      <img alt="Creative Commons License" src="/assets/images/license-cc4.png" />
+    </a>
+    
+    
+
+
+
+    <p></p>
   </div>
 </div>
+					</div>
+				</footer>
+				
+						<section></section>
+				
+			</article>
+		</div>
+		<div class="col-2">
+			<aside class="js-article-aside"><div class="m-toc js-toc"></div></aside>
+		</div>
+	</div>
+</div>
+
+<script src="//cdn.bootcss.com/toc/0.3.2/toc.min.js"></script>
+<script type="text/javascript">
+	window.throttle = function(func, wait) {
+	  var args, result, thisArg, timeoutId, lastCalled = 0;
+
+	  function trailingCall() {
+	    lastCalled = new Date;
+	    timeoutId = null;
+	    result = func.apply(thisArg, args);
+	  }
+	  return function() {
+	    var now = new Date,
+	      remaining = wait - (now - lastCalled);
+
+	    args = arguments;
+	    thisArg = this;
+
+	    if (remaining <= 0) {
+	      clearTimeout(timeoutId);
+	      timeoutId = null;
+	      lastCalled = now;
+	      result = func.apply(thisArg, args);
+	    } else if (!timeoutId) {
+	      timeoutId = setTimeout(trailingCall, remaining);
+	    }
+	    return result;
+	  };
+	}
+	$(function() {
+	  var $window = $(window);
+	  var $pageStage = $('.js-page-stage');
+	  var $pageMain = $('.js-main');
+	  var $pageFooter = $('.js-page-footer');
+	  var $articleContent = $('.js-article-content');
+	  var $articleAside = $('.js-article-aside');
+	  var $toc = $('.js-toc');
+	  var hasTitle = $articleContent.find('h1, h2, h3').length > 0;
+
+	  function asideSticky() {
+	    return $window.outerWidth() > 1150 && $pageStage.hasClass('has-toc');
+	  }
+
+	  function setTocClass() {
+	    if (hasTitle) {
+	      !$pageStage.hasClass('has-toc') && $pageStage.addClass('has-toc');
+	    }
+	  }
+
+	  setTocClass();
+
+	  function setAsideTOC() {
+	    var asideTop, asideLeft, scrollBottom, asideBottomTop, lastScrollTop;
+
+	    function init() {
+	      var asideOffset = $articleAside.offset();
+	      var footerOffset = $pageFooter.offset();
+	      var mainOffset = $pageMain.offset();
+	      asideTop = mainOffset.top;
+	      asideHeight = $toc.outerHeight() + parseInt($articleAside.css('padding-top'), 10) + parseInt($articleAside.css('padding-bottom'), 10);
+	      asideLeft = mainOffset.left + $pageMain.outerWidth() - $articleAside.outerWidth() - parseInt($pageMain.css('padding-right'), 10);
+	      scrollBottom = footerOffset.top - asideHeight;
+	      asideBottomTop = scrollBottom - mainOffset.top;
+	    }
+
+	    function setAside(force) {
+	      force !== true && (force = false);
+	      var scrollTop = $window.scrollTop();
+	      if (scrollTop >= asideTop && scrollTop <= scrollBottom) {
+	        (!force && lastScrollTop >= asideTop && lastScrollTop <= scrollBottom) ||
+	        $articleAside.addClass('fixed').css({
+	          left: asideLeft + 'px',
+	          top: 0
+	        });
+	      } else if (scrollTop < asideTop) {
+	        (!force && lastScrollTop < asideTop) ||
+	        $articleAside.removeClass('fixed').css({
+	          left: 0,
+	          top: 0
+	        });
+	      } else {
+	        (!force && lastScrollTop > scrollBottom) ||
+	        $articleAside.removeClass('fixed').css({
+	          left: 0,
+	          top: asideBottomTop + 'px'
+	        });
+	      }
+	      lastScrollTop = scrollTop;
+	    }
+	    asideSticky() && (init(), setAside());
+	    $window.on('scroll', function() {
+	      asideSticky() && setAside();
+	    });
+	    $window.on('resize', throttle(function() {
+	      setTocClass();
+	      asideSticky() && (init(), setAside(true));
+	    }, 100));
+	    setTimeout(init, 4000);
+	  }
+	  setTimeout(setAsideTOC, 1000);
+
+	  $toc.toc({
+	    'selectors': 'h1,h2,h3',
+	    'container': '.js-article-content',
+	  });
+	});
+</script>
 
 </div>
 </div>
