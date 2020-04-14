@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "TMUX"
+date:   2020-04-13 18:09:09 -0500
+categories: tmux commandLine
+lang: en
+ref: tmux
+---
+
+[TMUX](https://github.com/tmux/tmux/wiki) is a terminal multiplexer, you can have multiple workspaces, interchange between them and even split the window. Very handy when you need to run various programs at the same time.
+
+When you close Tmux it keep the session alive, so you can ssh a machine, start a tmux session, close the terminal and connect again to the tmux on that machine and everything will be exactly as when you leave.
+
+Another powerful feature is it can share the session, you can connect multiple times from distinct machines and you will see the same content, something like a shared remote desktop.
+
+<video class="centrarBloque" autoplay="autoplay" loop="loop" width="640" height="396">  
+  <source src="/assets/video-tmux.webm" type="video/webm">
+</video>
+TMUX in the wild
+{: class="tituloFigura"}
+
+From the command line:
+
+- `tmux`: start a new session
+- `tmux -ls`: list opened session
+- `tmux a -t 0`: attach to session named 0
+- `tmux kill-server`: kill the server and all sessions opened
+
+When inside tmux, you can send instructions to tmux with `Ctrl-b`, everything has that as a prefix.
+
+- `Ctrl-b q`: detach from tmux, you return to regular command line but tmux keep all the session active in the background
+
+Working with windows:
+
+- `Ctrl-b c`: create a new window
+- `Ctrl-b n`: select next window
+- `Ctrl-b p`: select previous window
+- `Ctrl-b c`: create a new window
+- `Ctrl-b &`: kill window, but you can use the `exit` command
+
+Working with panes (window's divisions):
+
+- `Ctrl-b "`: split horizontally the window
+- `Ctrl-b %`: split vertically the window
+- `Ctrl-b o`: change to the next pane
+- `Ctrl-b <arrow key>`: Change to the pane on the arrow key direction 
+- `Ctrl-b x`: kill the pane, but is easy to use `exit` only
+- `Ctrl-b z`: zoom/unzoom  the current pane, makes the current pane occupy all the space
+
+Tmux has three levels of organization: sessions, windows, panes.
+
+A session can have multiples windows and a window can be divided into multiples vertical and horizontal panes.
+
+You can send instructions by command name with `Ctrl-b :`, on the bottom you can see the tmux command line and can write commands, for example:
+
+- `new-session`: create a new session
+- `kill-session`: delete the session
+
+Session hot keys:
+
+- `Ctrl-b (`: select previous session
+- `Ctrl-b )`: select next session
+- `Ctrl-b $`: rename the session
+
+You can find the full hotkeys list with `Ctrl-b ?` and get more information on the [TMUX Wiki](https://github.com/tmux/tmux/wiki)
