@@ -35,7 +35,6 @@ Working with windows:
 - `Ctrl-b c`: create a new window
 - `Ctrl-b n`: select next window
 - `Ctrl-b p`: select previous window
-- `Ctrl-b c`: create a new window
 - `Ctrl-b &`: kill window, but you can use the `exit` command
 
 Working with panes (window's divisions):
@@ -47,7 +46,7 @@ Working with panes (window's divisions):
 - `Ctrl-b x`: kill the pane, but is easy to use `exit` only
 - `Ctrl-b z`: zoom/unzoom  the current pane, makes the current pane occupy all the space
 
-Tmux has three levels of organization: sessions, windows, panes.
+Tmux has three levels of organization: sessions, windows and panes.
 
 A session can have multiples windows and a window can be divided into multiples vertical and horizontal panes.
 

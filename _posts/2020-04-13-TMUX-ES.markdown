@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "TMUX"
+date:   2020-04-13 18:09:09 -0500
+categories: tmux commandLine
+lang: es
+ref: tmux
+---
+
+[TMUX](https://github.com/tmux/tmux/wiki) es un multiplexor de terminal, puedes tener múltiples espacios de trabajo, intercambiar entre ellos e incluso dividir la ventana. Bastante útil cuando se requiere correr varios programas al mismo tiempo.
+
+Cuando se cierra Tmux este mantiene la sesión activa, así que puede iniciar sesión por ssh a una máquina, arrancar una sesión de Tmux, cerrar la terminal y conectarte de nuevo y todo estará exactamente como lo dejaste.
+
+Otra buena característica es que se puede compartir la sesión, si se realizan múltiples conexiones, cada una de ellas podrá ver el mismo contenido, de manera similar como si se tratara de un escritorio compartido.
+
+<video class="centrarBloque" autoplay="autoplay" loop="loop" width="640" height="396">  
+  <source src="/assets/video-tmux.webm" type="video/webm">
+</video>
+TMUX en acción
+{: class="tituloFigura"}
+
+
+Desde la línea de comandos:
+
+- `tmux`: inicia una nueva sesión
+- `tmux -ls`: lista las sesiones abiertas 
+- `tmux a -t 0`: unirse a la sesión de nombre 0
+- `tmux kill-server`: Finalizar el servidor y todas las sesiones abiertas
+
+Ya dentro de Tmux puede enviar instrucciones con `Ctrl-b`, todos acciones tienen esa combinación como prefijo.
+
+- `Ctrl-b q`: Desunirse de Tmux, se regresa a la línea de comandos pero se mantienen todas la sesiones activas en segundo plano.
+
+Trabajando con ventanas
+
+- `Ctrl-b c`: crear una nueva ventana 
+- `Ctrl-b n`: seleccionar la siguiente ventana
+- `Ctrl-b p`: seleccionar la ventana previa
+- `Ctrl-b &`: cerrar la ventana, pero también puedes usar el comando `exit`
+
+
+Trabajando con divisiones de ventana:
+
+- `Ctrl-b "`: dividir la ventana horizontalmente
+- `Ctrl-b %`: dividir la ventana verticalmente
+- `Ctrl-b o`: cambiar a la siguiente división
+- `Ctrl-b <arrow key>`: cambiar a la división que se encuentra en la dirección de la flecha presionada
+- `Ctrl-b x`: cerrar la división, pero el comando `exit` puede usarse igual
+- `Ctrl-b z`: enfocar o desenfocar la división actual, enfocar hace que la división actual ocupe todo el espacio visual
+
+Tmux tiene tres niveles de organización: sesiones, ventanas y divisiones
+
+Una sesión puede tener múltiples ventanas y una ventana puede ser dividida mutiles partes verticales y horizontales.
+
+Puedes enviar instrucciones por nombre del comando con  `Ctrl-b :`, al realizar la combinación se desplegará en la parte inferior una pequeña linea de comandos, ahí puedes escribir por ejemplo los siguientes:
+
+- `new-session`: crear una nueva sesión 
+- `kill-session`: eliminar la sesión actual
+
+Atajos de sesión:
+
+- `Ctrl-b (`: seleccionar la sesión previas
+- `Ctrl-b )`: seleccionar la sesión siguiente
+- `Ctrl-b $`: renombrar la sesión
+
+Puedes encontrar el listado completo de atajos con `Ctrl-b ?` y encontrar mas información en la [wiki de Tmux](https://github.com/tmux/tmux/wiki)
