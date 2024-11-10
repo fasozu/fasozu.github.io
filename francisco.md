@@ -9,21 +9,17 @@ Hi!
 
 Capitulos de Francisco:
 
-- [Capítulo 123 Casa por cárcel para El Chuli](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-123-casa-por-carcel-para-el-chuli-206)
-- [Capítulo 124 El Chuli pierde importantes apoyos](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-124-el-chuli-pierde-importantes-apoyos-207)
-- [Capítulo 125 Jonathan le queda mal a Clara por Claudia Bahamón](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-125-jonathan-le-queda-mal-clara-por-claudia-bahamon)
-- [Capítulo 126 Gabriela intenta arreglar las cosas con John Mario](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-126-gabriela-intenta-arreglar-las-cosas-con-john-mario)
-- [Capítulo 127 l Magdalena vuelve a Bogotá ](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/capitulo-127-l-magdalena-vuelve-bogota-210)
-- [Capítulo 128 l John Mario en problemas](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/capitulo-128-l-john-mario-en-problemas-211)
-- [Capitulo 129 Clara desesperada por amor](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-129-clara-desesperada-por-amor-212)
-- [Capítulo 130 Gabriela se entera de la infidelidad del Gato](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-130-gabriela-se-entera-de-la-infidelidad-del-gato-213)
-- [Capítulo 131 Los del Jimmy Carter se van de excursión](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-131-los-del-jimmy-carter-se-van-de-excursion-214)
-- [Capítulo 132 Un paseo muy entretenido](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-132-un-paseo-muy-entretenido-215)
-- [Capítulo 133 Siguen las aventuras en Santa Marta](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-133-siguen-las-aventuras-en-santa-marta-216)
-- [Capítulo 134 Carlos no recuerda lo que sucedió con Gabriela](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-134-carlos-no-recuerda-lo-que-sucedio-con-gabriela-217)
-- [Capítulo 135 John David le pone un ultimátum a Clara](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-135-john-david-le-pone-un-ultimatum-clara-218)
 - [Capítulo 136 Carmen se sincera con Francisco](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-136-carmen-se-sincera-con-francisco-219)
+- [Capítulo 137 Jonathan promete cambiar con Clara](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-137-jonathan-promete-cambiar-con-clara-220)
+- [Capítulo 138 El amor de Carmen y Francisco resurge](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-138-el-amor-de-carmen-y-francisco-resurge-221)
+- [Capítulo 139 Las decepciones amorosas en Santa Marta](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-139-las-decepciones-amorosas-en-santa-marta-222)
+- [Capítulo 140 Carmen y Eugenia llegan a un acuerdo](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-140-carmen-y-eugenia-llegan-un-acuerdo-223)
+- [Capítulo 141 Gabriela recibe una importante noticia](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-141-gabriela-recibe-una-importante-noticia-224)
+- [Capítulo 142 Gabriela y Marcela buscan entrar a la universidad](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-142-gabriela-y-marcela-buscan-entrar-la-universidad)
+- [Capítulo 143 Jonathan se entera de una noticia que le aterra](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-143-jonathan-se-entera-de-e-una-noticia-que-le-aterra)
+- [Capítulo 144 Gabriela se gana una beca](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-144-gabriela-se-gana-una-beca-227)
+- [Capítulo 145 Jonathan quiere confesar la verdad](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-145-jonathan-quiere-confesar-la-verdad-228)
+- [Capítulo 146 Gabriela empieza la aventura universitaria](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-146-gabriela-empieza-la-aventura-universitaria-229)
+- [Capítulo 147 Gabriela se entera que Jonathan está enfermo](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-147-gabriela-se-entera-que-jonathan-esta-enfermo-230)
 
 
-                  
-                  
