@@ -9,17 +9,17 @@ Hi!
 
 Capitulos de Francisco:
 
-- [Capítulo 136 Carmen se sincera con Francisco](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-136-carmen-se-sincera-con-francisco-219)
-- [Capítulo 137 Jonathan promete cambiar con Clara](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-137-jonathan-promete-cambiar-con-clara-220)
-- [Capítulo 138 El amor de Carmen y Francisco resurge](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-138-el-amor-de-carmen-y-francisco-resurge-221)
-- [Capítulo 139 Las decepciones amorosas en Santa Marta](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-139-las-decepciones-amorosas-en-santa-marta-222)
-- [Capítulo 140 Carmen y Eugenia llegan a un acuerdo](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-140-carmen-y-eugenia-llegan-un-acuerdo-223)
-- [Capítulo 141 Gabriela recibe una importante noticia](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-141-gabriela-recibe-una-importante-noticia-224)
-- [Capítulo 142 Gabriela y Marcela buscan entrar a la universidad](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-142-gabriela-y-marcela-buscan-entrar-la-universidad)
-- [Capítulo 143 Jonathan se entera de una noticia que le aterra](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-143-jonathan-se-entera-de-e-una-noticia-que-le-aterra)
-- [Capítulo 144 Gabriela se gana una beca](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-144-gabriela-se-gana-una-beca-227)
-- [Capítulo 145 Jonathan quiere confesar la verdad](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-145-jonathan-quiere-confesar-la-verdad-228)
-- [Capítulo 146 Gabriela empieza la aventura universitaria](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-146-gabriela-empieza-la-aventura-universitaria-229)
 - [Capítulo 147 Gabriela se entera que Jonathan está enfermo](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-147-gabriela-se-entera-que-jonathan-esta-enfermo-230)
-
-
+- [Capítulo 148 John David confiesa que es un fraude](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-148-john-david-confiesa-que-es-un-fraude-231)
+- [Capítulo 149 Caballo es despedido del Jimmy Carter](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-149-caballo-es-despedido-del-jimmy-carter-232)
+- [Capítulo 150 John David le pide perdón a Clara](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-150-john-david-le-pide-perdon-clara-233)
+- [Capítulo 151 Álex le hace un show de celos a Deisy por Chuli](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-151-alex-le-hace-un-show-de-celos-deisy-por-chuli-234)
+- [Capítulo 152 Carmen tiene que cancelar sus clases de patinaje](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-152-carmen-tiene-que-cancelar-sus-clases-de-patinaje)
+- [Capítulo 153 La batalla entre Byron y Eugenia](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-153-la-batalla-entre-byron-y-eugenia-236)
+- [Capítulo 154 Clara le pide a Jonathan que se aleje de ella](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-154-clara-le-pide-jonathan-que-se-aleje-de-ella-237)
+- [Capítulo 155 Eugenia decide no batallar en contra de sus estudiantes](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/capitulo-155-eugenia-decide-no-batallar-en-contra-de-sus-estudiantes-238)
+- [Capítulo 156 La noticia que pone en jaque a Clara](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-156-la-noticia-que-pone-en-jaque-clara-242)
+- [Capítulo 157 La tristeza tras la muerte de Marcela](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-157-la-tristeza-tras-la-muerte-de-marcela-241)
+- [Capítulo 158 Un último adiós a Marcela](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-158-un-ultimo-adios-marcela-243)
+- [Capítulo 159 La extraña actitud de Gabriela](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-159-la-extrana-actitud-de-gabriela-244)
+- [Capítulo 160 Jonathan evita que Clara cometa un error](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-160-jonathan-evita-que-clara-cometa-un-error-245)
