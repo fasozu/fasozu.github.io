@@ -25,3 +25,5 @@ Capitulos de Francisco:
 - [Capítulo 173  Nuevas oportunidades en la vida](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-173-nuevas-oportunidades-en-la-vida-258)
 - [Capítulo 174  Añorando el pasado](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-174-anorando-el-pasado-259)
 - [Francisco el matemático T1  Capítulo 175  Clara busca salir adelante](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-175-clara-busca-salir-adelante-260)
+- [Capítulo 176 Desplazados en el Jimmy Carter](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-176-desplazados-en-el-jimmy-carter-261)
+- [Capítulo 177 ¿Desenmascaran a Byron?](https://www.canalrcn.com/francisco-el-matematico-t1/capitulos/francisco-el-matematico-t1-capitulo-177-desenmascaran-byron-262)
